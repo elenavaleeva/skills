@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+}
+
+body {
+    flex-direction: 0 0 1;
+    background-image: url("./sincerely-media-HoEYgBL_Gcs-unsplash.jpg");
+background-position: initial;
+background-size: cover;
+}
+
+h2 {
+    height: 50px;
+    width:100px ;
+    display: flex;
+    display: inline-table ;
+    height: auto;
+    color: rgb(6, 1, 14);
+    margin-right: 10px;
+  }
+
+  li {
+    color:rgb(11, 27, 86);
+    text-align: center;
+    text-shadow: 3px;
+    font-size: 30px;
+    margin: auto;
+  }
+  div {
+    margin-top: 170px;
+  }
