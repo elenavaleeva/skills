@@ -5,8 +5,8 @@
 body {
     flex-direction: 0 0 1;
     background-image: url("./sincerely-media-HoEYgBL_Gcs-unsplash.jpg");
-background-position: initial;
-background-size: cover;
+    background-position: initial;
+    background-size: cover;
 }
 
 h2 {
